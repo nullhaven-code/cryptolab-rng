@@ -1,0 +1,6 @@
+bin/
+lcg
+*.o
+*.pyc
+*.sage.py
+__pycache__/
